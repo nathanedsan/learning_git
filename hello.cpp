@@ -1,11 +1,1 @@
-#include <iostream>
-using namespace std;
-int main(){
-	cout << "hello git" << endl;
-	return 0;
-}
-
-
-
-
-
+VimCrypt~03!¢!Ð±—{mí7 9Nký”ÐI“?ÉbDÔË	~ØG!M¯N9'¡²A•¡KŒAŸ"£ap_—y5á©PÞÛN6Cc°õ²ƒ¥‚”[õ—q$Ê7¿	$Öúb·Ó U Ô^‘ªr£
